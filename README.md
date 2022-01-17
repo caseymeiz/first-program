@@ -62,7 +62,7 @@ add_executable(example example.cpp)
 target_link_libraries(example ${OpenCV_LIBS})
 ```
 
-### Add some example code to example.txt
+### Add some example code to example.cpp
 This repo has the barcode reader sample [barcode.cpp](https://github.com/opencv/opencv_contrib/blob/4.x/modules/barcode/samples/barcode.cpp)
 
 ### Create your run config
